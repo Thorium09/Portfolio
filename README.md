@@ -1,6 +1,6 @@
 # Flutter Web App
 
-### Live Demo:  
+### Live Demo:
 [https://paras-jangid.web.app](https://paras-jangid.web.app)
 
 A responsive Flutter web application that utilizes `AutoSizeText` and `Responsive Framework` to provide a seamless user experience across various devices and screen sizes.
